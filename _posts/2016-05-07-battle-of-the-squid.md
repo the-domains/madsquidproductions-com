@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=l37pejzfnOw'
 inLanguage: null
 keywords: []
 description: Uploaded by Mad Squid ProductionsTM on 2015-09-04.
-datePublished: '2016-08-09T22:55:57.516Z'
-dateModified: '2016-08-09T22:55:53.142Z'
+datePublished: '2016-08-09T23:15:49.069Z'
+dateModified: '2016-08-09T23:15:47.242Z'
 author:
   - name: Mad Squid ProductionsTM
     url: 'https://www.youtube.com/user/JustinMKolenc'
@@ -23,7 +23,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-starred: true
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
