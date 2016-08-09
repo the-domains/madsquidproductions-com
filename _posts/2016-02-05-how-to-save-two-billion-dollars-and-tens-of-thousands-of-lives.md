@@ -1,33 +1,34 @@
 ---
-author:
-  - name: Mad Squid ProductionsTM
-    url: 'https://www.youtube.com/user/JustinMKolenc'
-    avatar: {}
-related: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://www.youtube.com/favicon.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=el0itnncS7Q'
+inLanguage: null
 keywords: []
 description: >-
   This video is my proposal to the 2012 Presidential Candidates, Congressional
   Lawmakers, and members of the Media to save the United States $2.02 Billion
   per year, and over 16,000 drug related deaths annually. The solution is
   simple, but you have to watch the video to see what it is.
+datePublished: '2016-08-09T22:52:27.781Z'
+dateModified: '2016-08-09T22:52:21.486Z'
+author:
+  - name: Mad Squid ProductionsTM
+    url: 'https://www.youtube.com/user/JustinMKolenc'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=el0itnncS7Q'
 title: How to Save Two Billion Dollars & Tens of Thousands of Lives
-datePublished: '2016-08-09T22:47:49.081Z'
-dateModified: '2016-03-05T14:44:52.378Z'
 sourcePath: >-
   _posts/2016-02-05-how-to-save-two-billion-dollars-and-tens-of-thousands-of-lives.md
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: false
+via: {}
 authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
