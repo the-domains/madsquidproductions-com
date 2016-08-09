@@ -4,8 +4,22 @@
         <description><![CDATA[Mad Squid Productions™]]></description>
         <link>http://madsquidproductions.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 22:43:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 22:43:25 GMT</lastBuildDate>
         <atom:link href="http://madsquidproductions.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Squid's Worm Calculator (Short Informational)]]></title>
+            <description><![CDATA[<article><h1>Squid's Worm Calculator (Short Informational)</h1><p>Available from Google Play: https://play.google.com/store/apps/details?id=appinventor.ai_onemadsquid.SquidsWormCalculator ***NOTE: Neither "Squid's Worm Calculator" nor "Mad Squid Productions" is officially affiliated with Goldtokens.net, SecondAds, or Linden Lab. We do admire and love all three, however!*** This is a short "coming soon" video to announce the release of my very first iOS app.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6561441b3d87f32efd55f5c2c887aa6070e6261.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=uN-_hBUoF1Y</link>
+            <guid isPermaLink="false">f8cf87a3-04ec-4f9a-9109-c18eeefa8421</guid>
+            <pubDate>Tue, 09 Aug 2016 22:42:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Merchant Vessel SoSan (Still Image Music Video)]]></title>
+            <description><![CDATA[<article><h1>Merchant Vessel SoSan (Still Image Music Video)</h1><p>A song I wrote and put to video that tells the story of MV SoSan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47118a3def9652a0e907bd9e94d84bc4dda599d3.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=AcYnwwH3h04</link>
+            <guid isPermaLink="false">9653445c-11c4-4125-ac0a-6d5824d92274</guid>
+            <pubDate>Tue, 09 Aug 2016 22:42:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sparring]]></title>
             <description><![CDATA[<article><h1>Sparring</h1><p>Masta vs. Guido vs. Squid</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f157ee3fc06f851d5a57bbcd08b9a87c3a5150cf.jpg"></article>]]></description>
@@ -61,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=PkJ6fu7m164</link>
             <guid isPermaLink="false">0eed5555-1dbf-4208-831e-b673795fe4d3</guid>
             <pubDate>Tue, 09 Aug 2016 22:42:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miles Go Passing By (A Folk/Americana Music Video)]]></title>
-            <description><![CDATA[<article><h1>Miles Go Passing By (A Folk/Americana Music Video)</h1><p>Folk / Americana music written, performed, and recorded by Harold F. Easton. (My father.) NOTE ABOUT CARDS: The card included in this video links to the Association for Frontotemporal Degeneration (AFTD). They will gladly accept donations to help fund research and raise awareness.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52dca4817d32a5a188366103b56b11179edddcdc.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=7_T9WejcamQ</link>
-            <guid isPermaLink="false">6d902b72-fec6-49d6-8bf6-f8e6be3e8008</guid>
-            <pubDate>Tue, 09 Aug 2016 22:42:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
