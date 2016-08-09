@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Mad Squid ProductionsTM
-    url: 'https://www.youtube.com/user/JustinMKolenc'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=ObP0YkyfpUM'
+inLanguage: null
 keywords: []
 description: >-
   On election day 2012 I worked a 12-hour shift to get out the vote for
@@ -16,16 +11,24 @@ description: >-
   were Romney signs ALL OVER the grounds around the University Center. Being
   that CMU is a state school, and that the signs were surrounding the polling
   station, this was illegal.
+datePublished: '2016-08-09T22:57:00.381Z'
+dateModified: '2016-08-09T22:56:30.885Z'
+author:
+  - name: Mad Squid ProductionsTM
+    url: 'https://www.youtube.com/user/JustinMKolenc'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=ObP0YkyfpUM'
 title: 'Voter Suppression: Election Day 2012'
-datePublished: '2016-08-09T22:42:39.612Z'
-dateModified: '2016-02-04T02:49:47.100Z'
 sourcePath: _posts/2016-02-04-voter-suppression-election-day-2012.md
+via: {}
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
 _type: VideoObject
 _context: 'http://schema.org'
 
