@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Mad Squid ProductionsTM
-    url: 'https://www.youtube.com/user/JustinMKolenc'
-    avatar: {}
-related: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=7_T9WejcamQ'
+inLanguage: en
 keywords:
   - duration
   - views
@@ -25,7 +20,13 @@ description: >-
   (My father.) NOTE ABOUT CARDS: The card included in this video links to the
   Association for Frontotemporal Degeneration (AFTD). They will gladly accept
   donations to help fund research and raise awareness.
-inLanguage: en
+datePublished: '2016-08-09T22:54:07.564Z'
+dateModified: '2016-08-09T22:54:02.560Z'
+author:
+  - name: Mad Squid ProductionsTM
+    url: 'https://www.youtube.com/user/JustinMKolenc'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=7_T9WejcamQ&feature=applinks'
     type: ios
@@ -37,16 +38,16 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=7_T9WejcamQ&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=7_T9WejcamQ'
 title: Miles Go Passing By (A Folk/Americana Music Video)
-datePublished: '2016-08-09T22:42:38.993Z'
-dateModified: '2016-02-05T15:07:29.851Z'
 sourcePath: _posts/2016-02-04-miles-go-passing-by-a-folkamericana-music-video.md
-inFeed: true
-hasPage: false
-inNav: false
-starred: false
+via: {}
 authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
