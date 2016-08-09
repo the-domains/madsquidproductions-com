@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=l37pejzfnOw'
+inLanguage: null
+keywords: []
+description: Uploaded by Mad Squid ProductionsTM on 2015-09-04.
+datePublished: '2016-08-09T22:55:57.516Z'
+dateModified: '2016-08-09T22:55:53.142Z'
 author:
   - name: Mad Squid ProductionsTM
     url: 'https://www.youtube.com/user/JustinMKolenc'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: Uploaded by Mad Squid ProductionsTM on 2015-09-04.
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=l37pejzfnOw'
 title: Battle of the Squid!
-datePublished: '2016-08-09T22:47:48.545Z'
-dateModified: '2016-05-07T14:54:28.741Z'
 sourcePath: _posts/2016-05-07-battle-of-the-squid.md
-starred: false
-inFeed: true
-hasPage: false
-inNav: false
+via: {}
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
