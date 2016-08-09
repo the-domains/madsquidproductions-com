@@ -1,0 +1,28 @@
+name: MadSquidProductions.com
+favicon: null
+layout_spectrum: 0.10554649098776281
+typography_spectrum: 0.1686597631778568
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8858191857580096
+  lightness: 0.35361588350497186
+  saturation: 0.7811183223966509
+  rhythmicContrast: 0.5587428875733167
+purpose: []
