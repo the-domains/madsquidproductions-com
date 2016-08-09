@@ -20,8 +20,8 @@ description: >-
   ISIS fanatic in Orlando, calling Obama "directly responsible" for the shooting
   because of the President's following through on his campaign promise to pull
   out of Iraq.
-datePublished: '2016-08-09T22:51:53.327Z'
-dateModified: '2016-08-09T22:51:51.771Z'
+datePublished: '2016-08-09T22:54:36.096Z'
+dateModified: '2016-08-09T22:54:34.032Z'
 author:
   - name: Mad Squid ProductionsTM
     url: 'https://www.youtube.com/user/JustinMKolenc'
@@ -73,7 +73,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-starred: false
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
