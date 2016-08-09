@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Mad Squid ProductionsTM
-    url: 'https://www.youtube.com/user/JustinMKolenc'
-    avatar: {}
-related: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=xa-dVl3u7n4'
+inLanguage: en
 keywords:
   - duration
   - views
@@ -25,7 +20,13 @@ description: >-
   Beyond Means, in the studio circa 2001 as they lay down the first three tracks
   of a legendary liquid gold rock n' roll career! Perhaps better known as the
   proto-band for Never Again (The Kitchen's In The Bathroom.
-inLanguage: en
+datePublished: '2016-08-09T22:58:37.181Z'
+dateModified: '2016-08-09T22:58:33.233Z'
+author:
+  - name: Mad Squid ProductionsTM
+    url: 'https://www.youtube.com/user/JustinMKolenc'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=xa-dVl3u7n4&feature=applinks'
     type: ios
@@ -63,16 +64,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=xa-dVl3u7n4'
 title: 'Spent Beyond Means: The Band That Was, And Never Came To Be'
-datePublished: '2016-08-09T22:53:04.501Z'
-dateModified: '2016-03-05T14:44:50.128Z'
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
-authors: []
 sourcePath: _posts/2016-03-05-spent-beyond-means-the-band-that-was-and-never-came-to-be.md
+via: {}
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
