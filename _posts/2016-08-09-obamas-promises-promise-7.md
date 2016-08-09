@@ -1,31 +1,33 @@
 ---
-author:
-  - name: Mad Squid ProductionsTM
-    url: 'https://www.youtube.com/user/JustinMKolenc'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=6zJrmJ173n8'
+inLanguage: null
 keywords: []
 description: >-
   Are you like me? Do you want to get to the bottom of all those "promises" that
   Barack Obama has made to this country? Well, you're in the right place! This
   is promise number 7 on the Squid's list. In this video: To provide a public
   option via health care reform.
+datePublished: '2016-08-09T22:54:25.175Z'
+dateModified: '2016-08-09T22:54:16.206Z'
+author:
+  - name: Mad Squid ProductionsTM
+    url: 'https://www.youtube.com/user/JustinMKolenc'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=6zJrmJ173n8'
 title: 'Obama''s Promises: Promise #7'
-datePublished: '2016-08-09T22:46:01.831Z'
-dateModified: '2016-08-09T22:43:47.274Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-09-obamas-promises-promise-7.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
