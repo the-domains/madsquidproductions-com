@@ -20,8 +20,8 @@ description: >-
   Beyond Means, in the studio circa 2001 as they lay down the first three tracks
   of a legendary liquid gold rock n' roll career! Perhaps better known as the
   proto-band for Never Again (The Kitchen's In The Bathroom.
-datePublished: '2016-08-09T22:58:37.181Z'
-dateModified: '2016-08-09T22:58:33.233Z'
+datePublished: '2016-08-09T23:16:00.843Z'
+dateModified: '2016-08-09T23:15:59.370Z'
 author:
   - name: Mad Squid ProductionsTM
     url: 'https://www.youtube.com/user/JustinMKolenc'
@@ -73,7 +73,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-starred: false
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
