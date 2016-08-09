@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Mad Squid ProductionsTM
-    url: 'https://www.youtube.com/user/JustinMKolenc'
-    avatar: {}
-related: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=Pjj8tl7wcXg'
+inLanguage: en
 keywords:
   - mccain
   - duration
@@ -25,7 +20,13 @@ description: >-
   ISIS fanatic in Orlando, calling Obama "directly responsible" for the shooting
   because of the President's following through on his campaign promise to pull
   out of Iraq.
-inLanguage: en
+datePublished: '2016-08-09T22:51:53.327Z'
+dateModified: '2016-08-09T22:51:51.771Z'
+author:
+  - name: Mad Squid ProductionsTM
+    url: 'https://www.youtube.com/user/JustinMKolenc'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Pjj8tl7wcXg&feature=applinks'
     type: ios
@@ -63,16 +64,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Pjj8tl7wcXg'
 title: A Navy Vet Responds To John McCain
-datePublished: '2016-08-09T22:47:48.420Z'
-dateModified: '2016-06-18T02:03:42.650Z'
 sourcePath: _posts/2016-06-18-a-navy-vet-responds-to-john-mccain.md
-inFeed: true
-hasPage: false
-inNav: false
+via: {}
 authors: []
-starred: true
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
